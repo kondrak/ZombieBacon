@@ -857,7 +857,7 @@ class Scene
         {
             if(KONGREGATE_BUILD && clickPosition.y < -1.8)
             {
-                window.open("http://kondrak.info", "Mad Zombie Bacon Attack!");
+                window.open("https://kondrak.github.io", "Mad Zombie Bacon Attack!");
             }
             return;
         }
